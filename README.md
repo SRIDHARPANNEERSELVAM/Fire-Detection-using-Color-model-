@@ -10,7 +10,7 @@ The proposed algorithm handles YCbCr color model to decouple the luminance and c
 Dr.T Senthil Kumar, Asst. Professor, CSE, Amrita School of Engineering.
 
 ### Team:
-P.SRIDHAR, Asst.Prof (Sr.G),ECE, SREC,Coimbatore 
+P.SRIDHAR, Asst.Prof (Sr.G),ECE, Sri Ramakrishna Engineering College,Coimbatore 
 
 ### Proposed Algorithm:
 Algorithm: Proposed Fire Segmentation
