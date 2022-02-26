@@ -6,12 +6,11 @@
 
 The proposed algorithm handles YCbCr color model to decouple the luminance and chrominance which more discriminate the color than RGB color model.This algorithm has been tested on fire and fire like images which results in 97.95 % detection accuracy.
 
-### Thesis Guide: 
+### Thesis Advisor: 
 Dr.T Senthil Kumar, Asst. Professor, CSE, Amrita School of Engineering.
 
 ### Team:
 P.SRIDHAR, Asst.Prof (Sr.G),ECE, SREC,Coimbatore 
-
 
 ### Proposed Algorithm:
 Algorithm: Proposed Fire Segmentation
@@ -32,10 +31,9 @@ Output: Binary Image
 
 
 ### Results:
-
 The proposed method assessed with Khatami et al (2015a, 2015b)
-Method	TPR	FPR	ACCURACY
-Proposed Method	0.77	0.23	0.98
+Method	               TPR	FPR	ACCURACY
+Proposed Method	      0.77	0.23	0.98
 Khatami et.al (2015a)	0.45	0.54	0.92
 Khatami et.al (2015b)	0.57	0.42	0.93
 
