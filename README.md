@@ -1,1 +1,1 @@
-# Fire-Detection-using-Color-model-
+# Fire-Detection-using-Color-model
